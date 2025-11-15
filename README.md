@@ -1,2 +1,2 @@
 # healthcare-resource-optimization
-Predictive model for NHS hospital resource allocation using Python
+Predictive analytics for NHS A&E demand forecasting and resource optimization using Python
